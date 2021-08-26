@@ -1,2 +1,2 @@
 # Forest-Fire-Regression
-A linear regression model created in order to identify useful predictors for forecasting the amount of damage done by a forest fire.
+First project is a linear regression model. Second project is an improved version of the first that incorporates logistic regression, a random forest classifier, and support vector classification.
